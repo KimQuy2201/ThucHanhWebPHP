@@ -1,0 +1,27 @@
+#khung{
+    width: 500px;
+    border: 2px solid;
+    margin: auto;
+}
+#head{
+    width: 100%;
+    text-align: center;
+    background-color: pink;
+    color:blue;
+    font-size: 24px;
+}
+#content{
+    width: 100%;
+}
+#mix{
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+.left{
+    width: 30%;
+}
+.right>input{
+    width: 90%;
+}
